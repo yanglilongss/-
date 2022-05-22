@@ -1,0 +1,4 @@
+pandas
+paddle
+numpy
+matplotlib
