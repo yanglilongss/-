@@ -10,6 +10,6 @@
 
 ## 训练采用的框架和模型
 
-采用的框架为百度的**[ Paddle](https://github.com/PaddlePaddle/Paddle)**
+采用的框架为百度的**[Paddle](https://github.com/PaddlePaddle/Paddle)**
 
 模型为LSTM模型
